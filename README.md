@@ -5,5 +5,7 @@
 <li> FastAPI </li>
 <li> PostgreSQL</li>
 <li> SQL Alchemy </li>
-
+<p> Need to install de requirements.txt in a virtual environment (venv): <br>
+  pip install -r requirements.txt
+</p>
 </p>
