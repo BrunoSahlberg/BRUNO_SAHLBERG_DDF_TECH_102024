@@ -5,7 +5,13 @@
 <li> FastAPI </li>
 <li> PostgreSQL</li>
 <li> SQL Alchemy </li>
-<p> Need to install de requirements.txt in a virtual environment (venv): <br>
-  pip install -r requirements.txt
+  <br>
+<p> Need to install de requirements.txt in a virtual environment (venv) in root folder and then execute the app: <br>
+  <ol>
+    <li> python -m venv venv </li>
+    <li> .\venv\Scripts\activate </li>
+    <li> pip install -r requirements.txt </li>
+    <li> uvicorn app.main:app --reload </li>
+  </ol>
 </p>
 </p>
