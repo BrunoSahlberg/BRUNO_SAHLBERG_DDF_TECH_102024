@@ -23,3 +23,31 @@ Then, create a database named '<strong>dadosfera</strong>.'
   Now, you can access the API in <em> http://127.0.0.1:8000/docs </em> and test the requests in your browser or in a dedicated software like Postman!
 </p>
 </p>
+<hr>
+<p> API - Home (/docs)
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/api.png" alt="API">
+</p>
+<p> API - POST
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/api_post.png" alt="API POST">
+</p>
+<p> API - GETALL
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/api_post.png" alt="API GETALL">
+</p>
+<p> API - PUT
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/api_post.png" alt="API PUT">
+</p>
+<p> API - DELETE
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/api_delete.png" alt="API DELETE">
+</p>
+<hr>
+<h1 align="center"> Streamlit APP </h1>
+<p>I also created an app with Streamlit on the Dadosfera intelligence platform, that can be accessed by this <a href="https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=f4006681-c07a-4270-8aed-2271b5f37fac&pipeline_uuid=3969dc54-dec0-4beb-bed3-448725a197e2"> link</a>. </p>
+<p> APP - HOME
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/app.png" alt="APP">
+</p>
+<p> APP - TABLE & GRAPH
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/app_table.png" alt="APP TABLE AND GRAPH">
+</p>
+<p> APP - GENERATED DATASET 
+<img src="https://github.com/BrunoSahlberg/dadosfera-api/blob/main/prints/app_dataset.png" alt="APP DATASET">
+</p>
